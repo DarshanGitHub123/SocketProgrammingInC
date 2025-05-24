@@ -1,0 +1,6 @@
+Enter a 4-bit binary dataword (space-separated): 1011 1111 1011 1001
+Received Hamming Code from server: 1101 1001 1011 1101 1111 1011 1001
+
+
+Received dataword from client: 1011 1111 1011 1001
+Generated Hamming Code: 1101 1001 1011 1101 1111 1011 1001

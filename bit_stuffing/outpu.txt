@@ -1,0 +1,7 @@
+Enter binary data: 10011111101
+Bit Stuffed Data: 100111110101
+Stuffed Data Sent to Server.
+
+
+Received Stuffed Data: 100111110101
+Original Data after De-stuffing: 10011111101

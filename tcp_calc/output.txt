@@ -1,0 +1,5 @@
+Enter number 1:55
+Enter number 2: 10
+1:Add 2:Sub 3:Mul 4:Div 5:Exit
+3
+Answer: 550

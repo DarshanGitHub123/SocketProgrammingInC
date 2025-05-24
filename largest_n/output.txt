@@ -1,0 +1,11 @@
+Enter number of elements: 5
+Enter 5 elements: 11
+22
+21
+35
+10
+Largest number received from server: 35
+
+
+
+Largest number sent to client: 35

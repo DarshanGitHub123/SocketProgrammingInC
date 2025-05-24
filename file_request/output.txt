@@ -1,0 +1,15 @@
+Enter file name: sample.txt
+Server Response:
+Hello file.....
+
+
+Client requested: sample.txt
+File sent successfully.
+
+///////////////////////////////////////////////
+
+Enter file name: Darshan.txt
+Server Response:
+File not found.
+
+Client requested: Darshan.txt

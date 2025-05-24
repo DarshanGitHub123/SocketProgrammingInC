@@ -1,0 +1,5 @@
+Enter a number: 5
+Factorial received from server: 120
+
+Received number from client: 5
+Computed factorial: 120
