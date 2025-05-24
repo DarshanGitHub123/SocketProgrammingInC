@@ -33,3 +33,6 @@ To compile the client and server:
 ```bash
 gcc server.c -o server
 gcc client.c -o client
+
+./server [PORT]
+./client [HOST IP] [PORT]
